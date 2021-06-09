@@ -1,0 +1,553 @@
+2021-06-04 18:01:40,729  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:01:40,729  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:01:42,938  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:01:43,490  INFO [TestNG-test=Test-1] TestBase:32 - verifying the url
+2021-06-04 18:01:43,490  INFO [TestNG-test=Test-1] TestBase:27 - Expected Url = file:///C:/Offline%20Website/index.html
+2021-06-04 18:01:43,506  INFO [TestNG-test=Test-1] TestBase:30 - Actual Url = file:///C:/Offline%20Website/index.html
+2021-06-04 18:01:43,506  INFO [TestNG-test=Test-1] TestBase:34 - Actual and expected Url matched
+2021-06-04 18:01:43,661  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:01:43,661  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:01:45,046  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:01:45,621  INFO [TestNG-test=Test-1] TestBase:34 - verify Url
+2021-06-04 18:01:45,622  INFO [TestNG-test=Test-1] TestBase:25 - Expected Url = file:///C:/Offline%20Website/pages/examples/register.html
+2021-06-04 18:01:45,633  INFO [TestNG-test=Test-1] TestBase:28 - Actual Url = file:///C:/Offline%20Website/pages/examples/register.html
+2021-06-04 18:01:45,633  INFO [TestNG-test=Test-1] TestBase:32 - Actual and expected Url matched
+2021-06-04 18:01:45,750  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:01:45,750  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:01:47,149  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:01:47,969  INFO [TestNG-test=Test-1] TestBase:34 - verifying the url
+2021-06-04 18:01:47,969  INFO [TestNG-test=Test-1] TestBase:27 - Expected Url = file:///C:/Offline%20Website/pages/examples/dashboard.html
+2021-06-04 18:01:47,991  INFO [TestNG-test=Test-1] TestBase:30 - Actual Url = file:///C:/Offline%20Website/pages/examples/dashboard.html
+2021-06-04 18:01:47,991  INFO [TestNG-test=Test-1] TestBase:34 - Actual and Expected Url matched
+2021-06-04 18:01:48,126  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:01:48,128  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:01:49,535  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:01:50,565  INFO [TestNG-test=Test-1] TestBase:34 - verify Headings using Al
+2021-06-04 18:01:50,760  INFO [TestNG-test=Test-1] TestBase:28 - Actual List of Headings = [#, Username, Email, Mobile, Course, Gender, State, Action]
+2021-06-04 18:01:50,760  INFO [TestNG-test=Test-1] TestBase:31 - Expected List of Headings = [#, Username, Email, Mobile, Course, Gender, State, Action]
+2021-06-04 18:01:50,760  INFO [TestNG-test=Test-1] TestBase:35 - Actual and Expected list of Headings matched
+2021-06-04 18:01:50,909  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:01:50,909  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:01:52,266  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:01:53,543  INFO [TestNG-test=Test-1] TestBase:34 - verify Printing Drag Down Options using Al
+2021-06-04 18:01:53,543  INFO [TestNG-test=Test-1] TestBase:34 - Expected List = [--Select State--, Maharashtra, Delhi, HP, Punjab]
+2021-06-04 18:01:53,786  INFO [TestNG-test=Test-1] TestBase:41 - Actual List = [--Select State--, Maharashtra, Delhi, HP, Punjab]
+2021-06-04 18:01:53,786  INFO [TestNG-test=Test-1] TestBase:45 - Actual and Expected list matched
+2021-06-04 18:01:53,932  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:01:53,932  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:01:55,283  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:01:56,374  INFO [TestNG-test=Test-1] TestBase:34 - verify contact No Length
+2021-06-04 18:01:56,682  INFO [TestNG-test=Test-1] TestBase:29 - Actual List = [Kiran, Neelam, Seema, Varsha, Darshit]
+2021-06-04 18:01:56,682  INFO [TestNG-test=Test-1] TestBase:37 - Expected List = [Kiran, Neelam, Seema, Varsha, Darshit]
+2021-06-04 18:01:56,682  INFO [TestNG-test=Test-1] TestBase:41 - Actual and Expected list matched
+2021-06-04 18:01:56,802  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:01:56,804  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:01:58,222  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:01:59,325  INFO [TestNG-test=Test-1] TestBase:34 - verify Operating System 32bit
+2021-06-04 18:01:59,325  INFO [TestNG-test=Test-1] TestBase:25 - Actual Vendors having Operating System of 32 bit : 
+2021-06-04 18:01:59,806  INFO [TestNG-test=Test-1] TestBase:28 - Actual List = [Java Development Kit (JDK), Google Chrome, Mozilla Firefox, Gecko Driver for Latest firefox]
+2021-06-04 18:01:59,806  INFO [TestNG-test=Test-1] TestBase:35 - Expected List = [Java Development Kit (JDK), Google Chrome, Mozilla Firefox, Gecko Driver for Latest firefox]
+2021-06-04 18:01:59,806  INFO [TestNG-test=Test-1] TestBase:39 - Actual and Expected list matched
+2021-06-04 18:01:59,941  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:01:59,941  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:01,319  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:02,388  INFO [TestNG-test=Test-1] TestBase:34 - verify GO Links using Al
+2021-06-04 18:02:15,533  INFO [TestNG-test=Test-1] TestBase:27 - Actual List = [www.javabykiran.com, www.javabykiran.com, www.javabykiran.com, www.javabykiran.com, www.javabykiran.com, www.javabykiran.com]
+2021-06-04 18:02:15,533  INFO [TestNG-test=Test-1] TestBase:36 - Expected List = [Page not found | javabyKiran, Page not found | javabyKiran, Page not found | javabyKiran, Page not found | javabyKiran, Live Videos | javabyKiran, Page not found | javabyKiran]
+2021-06-04 18:02:15,533  INFO [TestNG-test=Test-1] TestBase:45 - Actual and Expected list not matched
+2021-06-04 18:02:15,685  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:15,685  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:17,073  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:17,409  INFO [TestNG-test=Test-1] TestBase:39 - verifying the title
+2021-06-04 18:02:17,409  INFO [TestNG-test=Test-1] TestBase:49 - Expected Title = JavaByKiran | Log in
+2021-06-04 18:02:17,413  INFO [TestNG-test=Test-1] TestBase:52 - Actual and expected Url not matched
+2021-06-04 18:02:17,413  INFO [TestNG-test=Test-1] TestBase:56 - Actual and expected title matched
+2021-06-04 18:02:17,540  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:17,540  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:18,938  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:19,512  INFO [TestNG-test=Test-1] TestBase:41 - verify Title
+2021-06-04 18:02:19,512  INFO [TestNG-test=Test-1] TestBase:46 - Expected Title = JavaByKiran | Registration Page
+2021-06-04 18:02:19,521  INFO [TestNG-test=Test-1] TestBase:49 - Actual Title = JavaByKiran | Registration Page
+2021-06-04 18:02:19,521  INFO [TestNG-test=Test-1] TestBase:53 - Actual and expected title matched
+2021-06-04 18:02:19,622  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:19,622  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:21,106  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:21,944  INFO [TestNG-test=Test-1] TestBase:41 - verifying the Title
+2021-06-04 18:02:21,944  INFO [TestNG-test=Test-1] TestBase:48 - Expected Title = JavaByKiran | Dashboard
+2021-06-04 18:02:21,952  INFO [TestNG-test=Test-1] TestBase:51 - actual Title = JavaByKiran | Dashboard
+2021-06-04 18:02:21,952  INFO [TestNG-test=Test-1] TestBase:55 - Actual and Expected title matched
+2021-06-04 18:02:22,083  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:22,084  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:23,479  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:24,580  INFO [TestNG-test=Test-1] TestBase:41 - verify Mob No Length
+2021-06-04 18:02:24,838  INFO [TestNG-test=Test-1] TestBase:49 - Actual List = [Kiran, Monica]
+2021-06-04 18:02:24,838  INFO [TestNG-test=Test-1] TestBase:54 - Expected List = [Kiran, Monica]
+2021-06-04 18:02:24,838  INFO [TestNG-test=Test-1] TestBase:58 - Actual and Expected list matched
+2021-06-04 18:02:24,986  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:24,987  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:26,466  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:27,778  INFO [TestNG-test=Test-1] TestBase:41 - verify Printing Drag Down Options using Excel
+2021-06-04 18:02:28,581  INFO [TestNG-test=Test-1] TestBase:59 - Expected List = [--Select State--, Maharashtra, Delhi, HP, Punjab]
+2021-06-04 18:02:28,746  INFO [TestNG-test=Test-1] TestBase:66 - Actual List = [--Select State--, Maharashtra, Delhi, HP, Punjab]
+2021-06-04 18:02:28,746  INFO [TestNG-test=Test-1] TestBase:70 - Actual and Expected list matched
+2021-06-04 18:02:28,860  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:28,862  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:30,475  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:31,474  INFO [TestNG-test=Test-1] TestBase:41 - verify Names In Alphabetical Order
+2021-06-04 18:02:31,602  INFO [TestNG-test=Test-1] TestBase:62 - Expected List = [Darshit, Kiran, Neelam, Seema, Varsha]
+2021-06-04 18:02:31,602  INFO [TestNG-test=Test-1] TestBase:65 - Actual List = [Darshit, Kiran, Neelam, Seema, Varsha]
+2021-06-04 18:02:31,602  INFO [TestNG-test=Test-1] TestBase:76 - Actual and Expected list matched
+2021-06-04 18:02:31,703  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:31,704  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:33,163  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:34,238  INFO [TestNG-test=Test-1] TestBase:41 - verify Operating System Common
+2021-06-04 18:02:34,238  INFO [TestNG-test=Test-1] TestBase:52 - Actual Vendors having Operating System common : 
+2021-06-04 18:02:34,629  INFO [TestNG-test=Test-1] TestBase:55 - Actual List = [Selenium Server Source Jar, Google Chrome Driver]
+2021-06-04 18:02:34,629  INFO [TestNG-test=Test-1] TestBase:60 - Expected List = [Selenium Server Source Jar, Google Chrome Driver]
+2021-06-04 18:02:34,629  INFO [TestNG-test=Test-1] TestBase:64 - Actual and Expected list matched
+2021-06-04 18:02:34,728  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:34,730  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:36,216  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:37,239  INFO [TestNG-test=Test-1] TestBase:41 - verify GO Links using Excel
+2021-06-04 18:02:50,433  INFO [TestNG-test=Test-1] TestBase:54 - Actual List = [www.javabykiran.com, www.javabykiran.com, www.javabykiran.com, www.javabykiran.com, www.javabykiran.com, www.javabykiran.com]
+2021-06-04 18:02:50,559  INFO [TestNG-test=Test-1] TestBase:57 - Expected List = [Page not found | javabyKiran, Page not found | javabyKiran, Page not found | javabyKiran, Page not found | javabyKiran, Live Videos | javabyKiran, Page not found | javabyKiran]
+2021-06-04 18:02:50,559  INFO [TestNG-test=Test-1] TestBase:66 - Actual and Expected list not matched
+2021-06-04 18:02:50,689  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:50,689  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:52,145  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:52,419  INFO [TestNG-test=Test-1] TestBase:46 - verifying the logo
+2021-06-04 18:02:52,486  INFO [TestNG-test=Test-1] TestBase:71 - Logo is displayed
+2021-06-04 18:02:52,613  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:52,613  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:54,065  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:54,573  INFO [TestNG-test=Test-1] TestBase:48 - verify Heading
+2021-06-04 18:02:54,632  INFO [TestNG-test=Test-1] TestBase:67 - Actual Heading = Java By Kiran
+2021-06-04 18:02:54,632  INFO [TestNG-test=Test-1] TestBase:70 - Expected Heading = Java By Kiran
+2021-06-04 18:02:54,632  INFO [TestNG-test=Test-1] TestBase:74 - Actual and Expected Heading matched
+2021-06-04 18:02:54,733  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:54,733  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:56,132  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:56,940  INFO [TestNG-test=Test-1] TestBase:48 - verifying the Corner Heading
+2021-06-04 18:02:56,990  INFO [TestNG-test=Test-1] TestBase:69 - actual Corner Heading = Java By Kiran
+2021-06-04 18:02:56,990  INFO [TestNG-test=Test-1] TestBase:72 - expected Corner Heading = Java By Kiran
+2021-06-04 18:02:56,990  INFO [TestNG-test=Test-1] TestBase:76 - Actual and Expected Corner Heading matched
+2021-06-04 18:02:57,119  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:57,119  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:02:58,518  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:02:59,541  INFO [TestNG-test=Test-1] TestBase:48 - verify for Male Gender
+2021-06-04 18:02:59,804  INFO [TestNG-test=Test-1] TestBase:72 - Actual List = [Kiran, Sagar]
+2021-06-04 18:02:59,804  INFO [TestNG-test=Test-1] TestBase:77 - Expected List = [Kiran, Sagar]
+2021-06-04 18:02:59,804  INFO [TestNG-test=Test-1] TestBase:81 - Actual and Expected list matched
+2021-06-04 18:02:59,928  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:02:59,929  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:01,298  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:02,550  INFO [TestNG-test=Test-1] TestBase:48 - verify Valid Add User
+2021-06-04 18:03:05,324  INFO [TestNG-test=Test-1] TestBase:94 - Actual Alert Message = User Added Successfully. You can not see added user.
+2021-06-04 18:03:05,324  INFO [TestNG-test=Test-1] TestBase:97 - expected Alert Message = User Added Successfully. You can not see added user.
+2021-06-04 18:03:05,324  INFO [TestNG-test=Test-1] TestBase:101 - Actual and expected Alert Message matched
+2021-06-04 18:03:05,493  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:05,493  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:06,893  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:07,995  INFO [TestNG-test=Test-1] TestBase:48 - verify Preffered Way To Connect WhatsApp
+2021-06-04 18:03:08,329  INFO [TestNG-test=Test-1] TestBase:93 - Actual List = [Kiran, Neelam, Seema, Varsha, Darshit]
+2021-06-04 18:03:08,329  INFO [TestNG-test=Test-1] TestBase:101 - Expected List = [Kiran, Neelam, Seema, Varsha, Darshit]
+2021-06-04 18:03:08,329  INFO [TestNG-test=Test-1] TestBase:105 - Actual and Expected list matched
+2021-06-04 18:03:08,449  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:08,449  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:09,865  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:10,981  INFO [TestNG-test=Test-1] TestBase:48 - verify None Operating System
+2021-06-04 18:03:11,499  INFO [TestNG-test=Test-1] TestBase:80 - Actual List = [Selenium Server Standalon Jar]
+2021-06-04 18:03:11,499  INFO [TestNG-test=Test-1] TestBase:84 - Expected List = [Selenium Server Standalon Jar]
+2021-06-04 18:03:11,499  INFO [TestNG-test=Test-1] TestBase:88 - Actual and Expected list matched
+2021-06-04 18:03:11,647  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:11,648  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:13,071  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:13,995  INFO [TestNG-test=Test-1] TestBase:48 - verify Complete Useful Links Table
+2021-06-04 18:03:14,469  INFO [TestNG-test=Test-1] TestBase:75 - Actual List = [Sr, Content, Click, 01, Schedule, Go !, 02, Video Lactures All Topics, Go !, 03, Selenium Interview Questions, Go !, 04, Java Interview Questions, Go !, 05, Courses, Go !, 06, Placement, Go !]
+2021-06-04 18:03:14,532  INFO [TestNG-test=Test-1] TestBase:78 - Expected List = [Sr, Content, Click, 01, Schedule, Go !, 02, Video Lactures All Topics, Go !, 03, Selenium Interview Questions, Go !, 04, Java Interview Questions, Go !, 05, Courses, Go !, 06, Placement, Go !]
+2021-06-04 18:03:14,532  INFO [TestNG-test=Test-1] TestBase:82 - Actual and Expected list matched
+2021-06-04 18:03:14,653  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:14,653  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:16,028  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:16,363  INFO [TestNG-test=Test-1] TestBase:53 - verifying the MainHeading
+2021-06-04 18:03:16,398  INFO [TestNG-test=Test-1] TestBase:85 - Actual Heading = Java By Kiran
+2021-06-04 18:03:16,398  INFO [TestNG-test=Test-1] TestBase:88 - Expected Heading = Java By Kiran
+2021-06-04 18:03:16,398  INFO [TestNG-test=Test-1] TestBase:92 - Actual and Expected Headings are matched
+2021-06-04 18:03:16,561  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:16,561  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:17,947  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:18,475  INFO [TestNG-test=Test-1] TestBase:55 - verify Already Member Text
+2021-06-04 18:03:18,517  INFO [TestNG-test=Test-1] TestBase:88 - Actual Already Member Link Text = I already have a membership
+2021-06-04 18:03:18,517  INFO [TestNG-test=Test-1] TestBase:91 - Expected Already Member Link Text = I already have a membership
+2021-06-04 18:03:18,517  INFO [TestNG-test=Test-1] TestBase:95 - Actual and Expected Already Member Link Text matched
+2021-06-04 18:03:18,640  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:18,640  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:20,065  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:20,865  INFO [TestNG-test=Test-1] TestBase:55 - verifying the Main Heading
+2021-06-04 18:03:20,929  INFO [TestNG-test=Test-1] TestBase:90 - actual Main Heading = Dashboard Courses Offered
+2021-06-04 18:03:20,929  INFO [TestNG-test=Test-1] TestBase:93 - expected Main Heading = Dashboard Courses Offered
+2021-06-04 18:03:20,929  INFO [TestNG-test=Test-1] TestBase:97 - Actual and Expected Main Heading matched
+2021-06-04 18:03:21,039  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:21,039  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:22,466  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:23,512  INFO [TestNG-test=Test-1] TestBase:55 - verify Uname In Order
+2021-06-04 18:03:23,618  INFO [TestNG-test=Test-1] TestBase:101 - Expected List = [Kimaya, Kiran, Monica, Sagar]
+2021-06-04 18:03:23,618  INFO [TestNG-test=Test-1] TestBase:104 - Actual List = [Kimaya, Kiran, Monica, Sagar]
+2021-06-04 18:03:23,618  INFO [TestNG-test=Test-1] TestBase:108 - Actual and Expected list matched
+2021-06-04 18:03:23,729  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:23,729  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:25,189  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:26,200  INFO [TestNG-test=Test-1] TestBase:55 - verify Preffered Way To Connect PhoneCall
+2021-06-04 18:03:26,552  INFO [TestNG-test=Test-1] TestBase:121 - Actual List = [Neelam, Seema, Varsha]
+2021-06-04 18:03:26,552  INFO [TestNG-test=Test-1] TestBase:127 - Expected List = [Neelam, Seema, Varsha]
+2021-06-04 18:03:26,552  INFO [TestNG-test=Test-1] TestBase:131 - Actual and Expected list matched
+2021-06-04 18:03:26,683  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:26,683  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:28,171  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:29,397  INFO [TestNG-test=Test-1] TestBase:55 - verify Complete Downloads Table
+2021-06-04 18:03:30,464  INFO [TestNG-test=Test-1] TestBase:102 - Actual List = [Sr, Name, vendor, Version, 32bit, 64bit, Common, Official Source
+*For prevoius and latest releases, 01, , Java Development Kit (JDK), 1.8, 32bit, 64bit, , Official Website, 02, , Selenium Server Standalon Jar, 2.52.0 3.9.0, , , 2.52.0 3.9.0, Official Website, 03, , Selenium Server Source Jar, 2.46.0, , , Common, Official Website, 04, , Google Chrome, 76.0, 32bit, 64bit, , Official Website, 05, , Google Chrome Driver, 76.0, , , Common, Official Website, 06, , Mozilla Firefox, 69.0, 32bit, 64bit, , Official Website, 07, , Gecko Driver for Latest firefox, 0.24.0, 32bit, 64bit, , Official Website]
+2021-06-04 18:03:30,558  INFO [TestNG-test=Test-1] TestBase:105 - Expected List = [Sr, Name, vendor, Version, 32bit, 64bit, Common, Official Source
+*For prevoius and latest releases, 01, , Java Development Kit (JDK), 1.8, 32bit, 64bit, , Official Website, 02, , Selenium Server Standalon Jar, 2.52.0 3.9.0, , , 2.52.0 3.9.0, Official Website, 03, , Selenium Server Source Jar, 2.46.0, , , Common, Official Website, 04, , Google Chrome, 76.0, 32bit, 64bit, , Official Website, 05, , Google Chrome Driver, 76.0, , , Common, Official Website, 06, , Mozilla Firefox, 69.0, 32bit, 64bit, , Official Website, 07, , Gecko Driver for Latest firefox, 0.24.0, 32bit, 64bit, , Official Website]
+2021-06-04 18:03:30,558  INFO [TestNG-test=Test-1] TestBase:109 - Actual and Expected list matched
+2021-06-04 18:03:30,708  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:30,708  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:32,193  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:32,488  INFO [TestNG-test=Test-1] TestBase:60 - ***************************
+2021-06-04 18:03:32,490  INFO [TestNG-test=Test-1] TestBase:61 - verifying the subHeading
+2021-06-04 18:03:32,538  INFO [TestNG-test=Test-1] TestBase:106 - Actual Subheading = JAVA | SELENIUM | PYTHON
+2021-06-04 18:03:32,538  INFO [TestNG-test=Test-1] TestBase:109 - Expected Subheading = JAVA | SELENIUM | PYTHON
+2021-06-04 18:03:32,538  INFO [TestNG-test=Test-1] TestBase:113 - Actual and expected Subheadings are matched
+2021-06-04 18:03:32,666  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:32,666  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:34,052  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:34,578  INFO [TestNG-test=Test-1] TestBase:62 - verify Already Member Link
+2021-06-04 18:03:34,751  INFO [TestNG-test=Test-1] TestBase:111 - Expected Title = JavaByKiran | Log in
+2021-06-04 18:03:34,791  INFO [TestNG-test=Test-1] TestBase:114 - Actual Title = JavaByKiran | Log in
+2021-06-04 18:03:34,791  INFO [TestNG-test=Test-1] TestBase:118 - Actual and expected title matched
+2021-06-04 18:03:34,911  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:34,911  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:36,323  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:37,234  INFO [TestNG-test=Test-1] TestBase:62 - verifying the User Image
+2021-06-04 18:03:37,295  INFO [TestNG-test=Test-1] TestBase:112 - User Image is displayed
+2021-06-04 18:03:37,429  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:37,430  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:38,847  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:39,839  INFO [TestNG-test=Test-1] TestBase:62 - *********************************************************
+2021-06-04 18:03:39,841  INFO [TestNG-test=Test-1] TestBase:63 - verify Uname In Order
+2021-06-04 18:03:39,934  INFO [TestNG-test=Test-1] TestBase:101 - Expected List = [Kimaya, Kiran, Monica, Sagar]
+2021-06-04 18:03:39,934  INFO [TestNG-test=Test-1] TestBase:104 - Actual List = [Kimaya, Kiran, Monica, Sagar]
+2021-06-04 18:03:39,934  INFO [TestNG-test=Test-1] TestBase:108 - Actual and Expected list matched
+2021-06-04 18:03:40,069  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:40,070  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:41,542  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:42,470  INFO [TestNG-test=Test-1] TestBase:62 - *********************************************************
+2021-06-04 18:03:42,470  INFO [TestNG-test=Test-1] TestBase:63 - verify Preffered Way To Connect WhatsApp And PhoneCall
+2021-06-04 18:03:42,782  INFO [TestNG-test=Test-1] TestBase:148 - Actual List = [Neelam, Seema, Varsha]
+2021-06-04 18:03:42,782  INFO [TestNG-test=Test-1] TestBase:154 - Expected List = [Neelam, Seema, Varsha]
+2021-06-04 18:03:42,782  INFO [TestNG-test=Test-1] TestBase:158 - Actual and Expected list matched
+2021-06-04 18:03:42,914  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:42,915  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:44,401  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:44,732  INFO [TestNG-test=Test-1] TestBase:68 - ***************************
+2021-06-04 18:03:44,732  INFO [TestNG-test=Test-1] TestBase:69 - verifying the signInBoxHeading
+2021-06-04 18:03:44,795  INFO [TestNG-test=Test-1] TestBase:127 - Actual Sign-in box heading = Sign in to start your session
+2021-06-04 18:03:44,795  INFO [TestNG-test=Test-1] TestBase:130 - Expected Sign-in box heading = Sign in to start your session
+2021-06-04 18:03:44,795  INFO [TestNG-test=Test-1] TestBase:134 - Actual and Expected Sign-in box headings are matched
+2021-06-04 18:03:44,892  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:44,892  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:46,269  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:46,784  INFO [TestNG-test=Test-1] TestBase:69 - verify Placeholders
+2021-06-04 18:03:46,881  INFO [TestNG-test=Test-1] TestBase:132 - Actual Placeholder Texts = [Name, Mobile, Email, Password]
+2021-06-04 18:03:46,881  INFO [TestNG-test=Test-1] TestBase:139 - Expected Placeholder Texts = [Name, Mobile, Email, Password]
+2021-06-04 18:03:46,881  INFO [TestNG-test=Test-1] TestBase:143 - Actual and Expected Placeholder texts matched
+2021-06-04 18:03:47,015  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:47,015  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:48,447  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:49,262  INFO [TestNG-test=Test-1] TestBase:69 - verifying the User Name
+2021-06-04 18:03:49,309  INFO [TestNG-test=Test-1] TestBase:126 - actual User Name = Kiran
+2021-06-04 18:03:49,309  INFO [TestNG-test=Test-1] TestBase:129 - expected User Name = Kiran
+2021-06-04 18:03:49,309  INFO [TestNG-test=Test-1] TestBase:133 - Actual and Expected User Name matched
+2021-06-04 18:03:49,438  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:49,439  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:50,902  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:51,902  INFO [TestNG-test=Test-1] TestBase:70 - *********************************************************
+2021-06-04 18:03:51,903  INFO [TestNG-test=Test-1] TestBase:71 - verify Gmail.com
+2021-06-04 18:03:52,128  INFO [TestNG-test=Test-1] TestBase:146 - Actual List = [Kiran, Sagar, Monica, Kimaya]
+2021-06-04 18:03:52,128  INFO [TestNG-test=Test-1] TestBase:153 - Expected List = [Kiran, Sagar, Monica, Kimaya]
+2021-06-04 18:03:52,128  INFO [TestNG-test=Test-1] TestBase:157 - Actual and Expected list matched
+2021-06-04 18:03:52,242  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:52,242  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:53,635  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:54,647  INFO [TestNG-test=Test-1] TestBase:70 - *********************************************************
+2021-06-04 18:03:54,647  INFO [TestNG-test=Test-1] TestBase:71 - verify Preffered Way To Connect WhatsApp But Not Phone Call
+2021-06-04 18:03:55,020  INFO [TestNG-test=Test-1] TestBase:174 - Actual List = [Kiran, Darshit]
+2021-06-04 18:03:55,020  INFO [TestNG-test=Test-1] TestBase:179 - Expected List = [Kiran, Darshit]
+2021-06-04 18:03:55,020  INFO [TestNG-test=Test-1] TestBase:185 - Actual and Expected list matched
+2021-06-04 18:03:55,138  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:55,138  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:56,562  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:56,880  INFO [TestNG-test=Test-1] TestBase:76 - ***************************
+2021-06-04 18:03:56,881  INFO [TestNG-test=Test-1] TestBase:77 - verifying the placeholders
+2021-06-04 18:03:56,881  INFO [TestNG-test=Test-1] TestBase:150 - List of Expected Placeholders = [Email, Password]
+2021-06-04 18:03:56,976  INFO [TestNG-test=Test-1] TestBase:153 - List of Actual Placeholders = [Email, Password]
+2021-06-04 18:03:56,976  INFO [TestNG-test=Test-1] TestBase:157 - List of Actual and Expected Placeholders are matched
+2021-06-04 18:03:57,088  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:57,104  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:03:58,510  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:03:59,036  INFO [TestNG-test=Test-1] TestBase:76 - verify Blank Sign In
+2021-06-04 18:03:59,249  INFO [TestNG-test=Test-1] TestBase:159 - Actual Error Messages = [Please enter Name., Please enter Mobile., Please enter Email., Please enter Password.]
+2021-06-04 18:03:59,249  INFO [TestNG-test=Test-1] TestBase:166 - Expected error Messages = [Please enter Name., Please enter Mobile., Please enter Email., Please enter Password.]
+2021-06-04 18:03:59,249  INFO [TestNG-test=Test-1] TestBase:170 - Expected and Actual error messages matched
+2021-06-04 18:03:59,393  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:03:59,393  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:00,907  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:01,750  INFO [TestNG-test=Test-1] TestBase:76 - verifying the User Status
+2021-06-04 18:04:01,805  INFO [TestNG-test=Test-1] TestBase:147 - actual User Status = Online
+2021-06-04 18:04:01,805  INFO [TestNG-test=Test-1] TestBase:150 - expected User Status = Online
+2021-06-04 18:04:01,805  INFO [TestNG-test=Test-1] TestBase:154 - Actual and Expected User Status matched
+2021-06-04 18:04:01,929  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:01,929  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:03,341  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:04,365  INFO [TestNG-test=Test-1] TestBase:78 - *********************************************************
+2021-06-04 18:04:04,365  INFO [TestNG-test=Test-1] TestBase:79 - verify Click Delete Alert Msg
+2021-06-04 18:04:04,365  INFO [TestNG-test=Test-1] TestBase:174 - Actual List = []
+2021-06-04 18:04:04,365  INFO [TestNG-test=Test-1] TestBase:181 - Expected List = [You can not delete Default User, Are you sure you want to delete this user, You can not delete Default User, Are you sure you want to delete this user]
+2021-06-04 18:04:04,787  INFO [TestNG-test=Test-1] TestBase:213 - Actual and Expected list matched
+2021-06-04 18:04:04,924  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:04,924  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:06,377  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:07,431  INFO [TestNG-test=Test-1] TestBase:78 - *********************************************************
+2021-06-04 18:04:07,431  INFO [TestNG-test=Test-1] TestBase:79 - verify Faculties Available On Monday
+2021-06-04 18:04:07,790  INFO [TestNG-test=Test-1] TestBase:201 - Actual List = [Kiran, Neelam, Seema, Varsha]
+2021-06-04 18:04:07,790  INFO [TestNG-test=Test-1] TestBase:208 - Expected List = [Kiran, Neelam, Seema, Varsha]
+2021-06-04 18:04:07,790  INFO [TestNG-test=Test-1] TestBase:212 - Actual and Expected list matched
+2021-06-04 18:04:07,885  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:07,885  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:09,297  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:09,668  INFO [TestNG-test=Test-1] TestBase:84 - ***************************
+2021-06-04 18:04:09,668  INFO [TestNG-test=Test-1] TestBase:85 - verifying the valid LogIn
+2021-06-04 18:04:10,135  INFO [TestNG-test=Test-1] TestBase:175 - Expected Title = JavaByKiran | Dashboard
+2021-06-04 18:04:10,144  INFO [TestNG-test=Test-1] TestBase:178 - Actual Title = JavaByKiran | Dashboard
+2021-06-04 18:04:10,144  INFO [TestNG-test=Test-1] TestBase:182 - Actual and Expected titles are matched
+2021-06-04 18:04:10,263  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:10,263  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:11,669  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:12,177  INFO [TestNG-test=Test-1] TestBase:83 - verify Valid Sign In
+2021-06-04 18:04:12,746  INFO [TestNG-test=Test-1] TestBase:190 - Expected Alert Message = User registered successfully.
+2021-06-04 18:04:12,767  INFO [TestNG-test=Test-1] TestBase:193 - Actual Alert Message = User registered successfully.
+2021-06-04 18:04:12,767  INFO [TestNG-test=Test-1] TestBase:197 - Expected and Actual alert message matched
+2021-06-04 18:04:12,877  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:12,877  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:14,319  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:15,173  INFO [TestNG-test=Test-1] TestBase:83 - verifying the navigation Menu Text
+2021-06-04 18:04:15,317  INFO [TestNG-test=Test-1] TestBase:168 - actual Navigation Menu Texts = [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-06-04 18:04:15,317  INFO [TestNG-test=Test-1] TestBase:171 - expected Navigation Menu Text = [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-06-04 18:04:15,317  INFO [TestNG-test=Test-1] TestBase:175 - Actual and Expected Navigation Menu Text matched
+2021-06-04 18:04:15,443  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:15,443  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:16,843  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:17,919  INFO [TestNG-test=Test-1] TestBase:86 - *********************************************************
+2021-06-04 18:04:17,919  INFO [TestNG-test=Test-1] TestBase:87 - verify Selenium Faculty
+2021-06-04 18:04:18,183  INFO [TestNG-test=Test-1] TestBase:227 - Actual List = [Sagar]
+2021-06-04 18:04:18,183  INFO [TestNG-test=Test-1] TestBase:231 - Expected List = [Sagar]
+2021-06-04 18:04:18,183  INFO [TestNG-test=Test-1] TestBase:235 - Actual and Expected list matched
+2021-06-04 18:04:18,339  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:18,339  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:19,723  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:20,839  INFO [TestNG-test=Test-1] TestBase:86 - *********************************************************
+2021-06-04 18:04:20,839  INFO [TestNG-test=Test-1] TestBase:87 - verify Faculties Not Available On Sunday
+2021-06-04 18:04:21,141  INFO [TestNG-test=Test-1] TestBase:228 - Actual List = [Neelam, Seema]
+2021-06-04 18:04:21,141  INFO [TestNG-test=Test-1] TestBase:233 - Expected List = [Neelam, Seema]
+2021-06-04 18:04:21,141  INFO [TestNG-test=Test-1] TestBase:237 - Actual and Expected list matched
+2021-06-04 18:04:21,326  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:21,326  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:22,747  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:23,117  INFO [TestNG-test=Test-1] TestBase:92 - ***************************
+2021-06-04 18:04:23,117  INFO [TestNG-test=Test-1] TestBase:93 - verifying the logout Successfully Message
+2021-06-04 18:04:23,835  INFO [TestNG-test=Test-1] TestBase:201 - Clicked Logout Button
+2021-06-04 18:04:23,872  INFO [TestNG-test=Test-1] TestBase:204 - Actual Message = Logout successfully
+2021-06-04 18:04:23,872  INFO [TestNG-test=Test-1] TestBase:207 - Expected Message = Logout successfully
+2021-06-04 18:04:23,872  INFO [TestNG-test=Test-1] TestBase:211 - Actual and Expected Message matched
+2021-06-04 18:04:23,988  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:23,988  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:25,412  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:26,297  INFO [TestNG-test=Test-1] TestBase:90 - verifying the Users Menu
+2021-06-04 18:04:26,528  INFO [TestNG-test=Test-1] TestBase:191 - actual users Menu Title = JavaByKiran | User
+2021-06-04 18:04:26,528  INFO [TestNG-test=Test-1] TestBase:194 - expected users Menu Title = JavaByKiran | User
+2021-06-04 18:04:26,686  INFO [TestNG-test=Test-1] TestBase:200 - Actual and Expected users Menu Title matched
+2021-06-04 18:04:26,806  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:26,806  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:28,196  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:29,246  INFO [TestNG-test=Test-1] TestBase:94 - *********************************************************
+2021-06-04 18:04:29,249  INFO [TestNG-test=Test-1] TestBase:95 - verify Tool Tip
+2021-06-04 18:04:29,351  INFO [TestNG-test=Test-1] TestBase:249 - Actual List = [Click to Delete, Click to Delete, Click to Delete, Click to Delete]
+2021-06-04 18:04:29,351  INFO [TestNG-test=Test-1] TestBase:256 - Expected List = [Click to Delete, Click to Delete, Click to Delete, Click to Delete]
+2021-06-04 18:04:29,351  INFO [TestNG-test=Test-1] TestBase:260 - Actual and Expected list matched
+2021-06-04 18:04:29,484  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:29,484  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:30,951  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:31,980  INFO [TestNG-test=Test-1] TestBase:94 - *********************************************************
+2021-06-04 18:04:31,980  INFO [TestNG-test=Test-1] TestBase:95 - verify Complete Operators Table
+2021-06-04 18:04:32,659  INFO [TestNG-test=Test-1] TestBase:251 - Actual List = [ID, Person, For, Prefered Way to Connect, Contact, Timings, 01, Kiran, Urgent Technical Help, Whats App Only, 9552343698, 07:00 AM to 10:00 PM Monday-Sunday, 02, Neelam, Technical Discussion (Errors, Software, Technical Materials), Whats App Phone Call SMS eMail, 7066885937, 09:00 AM to 06:00 PM Monday-Saturday, 03, Seema, Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Whats App Phone Call SMS eMail, 8888558802, 09:00 AM to 06:00 PM Monday-Saturday, 04, Varsha, Enquiry(Course Details, Fees, Enquiry), Whats App Phone Call SMS eMail, 8888809416, 09:00 AM to 06:00 PM Monday to Friday and Sunday, 05, Darshit, Technical Help, Whats App Only, 8866888662, 08:30 AM to 02:00 PM Saturday-Sunday]
+2021-06-04 18:04:32,706  INFO [TestNG-test=Test-1] TestBase:254 - Expected List = [ID, Person, For, Prefered Way to Connect, Contact, Timings, 01, Kiran, Urgent Technical Help, Whats App Only, 9552343698, 07:00 AM to 10:00 PM Monday-Sunday, 02, Neelam, Technical Discussion (Errors, Software, Technical Materials), Whats App Phone Call SMS eMail, 7066885937, 09:00 AM to 06:00 PM Monday-Saturday, 03, Seema, Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Whats App Phone Call SMS eMail, 8888558802, 09:00 AM to 06:00 PM Monday-Saturday, 04, Varsha, Enquiry(Course Details, Fees, Enquiry), Whats App Phone Call SMS eMail, 8888809416, 09:00 AM to 06:00 PM Monday to Friday and Sunday, 05, Darshit, Technical Help, Whats App Only, 8866888662, 08:30 AM to 02:00 PM Saturday-Sunday]
+2021-06-04 18:04:32,706  INFO [TestNG-test=Test-1] TestBase:258 - Actual and Expected list matched
+2021-06-04 18:04:32,855  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:32,855  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:34,272  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:34,591  INFO [TestNG-test=Test-1] TestBase:100 - ***************************
+2021-06-04 18:04:34,592  INFO [TestNG-test=Test-1] TestBase:101 - verifying the invalid LogIn
+2021-06-04 18:04:34,945  INFO [TestNG-test=Test-1] TestBase:229 - Expected Title = JavaByKiran | Log in
+2021-06-04 18:04:34,953  INFO [TestNG-test=Test-1] TestBase:232 - Actual Title = JavaByKiran | Log in
+2021-06-04 18:04:34,953  INFO [TestNG-test=Test-1] TestBase:236 - Actual and Expected titles are matched
+2021-06-04 18:04:35,064  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:35,064  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:36,534  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:37,353  INFO [TestNG-test=Test-1] TestBase:97 - verifying the Operators Menu
+2021-06-04 18:04:37,555  INFO [TestNG-test=Test-1] TestBase:216 - actual operators Menu Title = JavaByKiran | Operators
+2021-06-04 18:04:37,555  INFO [TestNG-test=Test-1] TestBase:219 - expected operators Menu Title = JavaByKiran | Operators
+2021-06-04 18:04:37,555  INFO [TestNG-test=Test-1] TestBase:223 - Actual and Expected operators Menu Title matched
+2021-06-04 18:04:37,665  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:37,665  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:39,141  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:40,144  INFO [TestNG-test=Test-1] TestBase:102 - *********************************************************
+2021-06-04 18:04:40,144  INFO [TestNG-test=Test-1] TestBase:103 - verify Complete Users Table
+2021-06-04 18:04:40,811  INFO [TestNG-test=Test-1] TestBase:274 - Actual List = [#, Username, Email, Mobile, Course, Gender, State, Action, 1, Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete, 2, Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete, 3, Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete, 4, Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]
+2021-06-04 18:04:40,857  INFO [TestNG-test=Test-1] TestBase:277 - Expected List = [#, Username, Email, Mobile, Course, Gender, State, Action, 1, Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete, 2, Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete, 3, Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete, 4, Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]
+2021-06-04 18:04:40,857  INFO [TestNG-test=Test-1] TestBase:281 - Actual and Expected list matched
+2021-06-04 18:04:40,982  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:40,982  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:42,467  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:42,819  INFO [TestNG-test=Test-1] TestBase:108 - ***************************
+2021-06-04 18:04:42,821  INFO [TestNG-test=Test-1] TestBase:109 - verifying the invalid Log In Error Message
+2021-06-04 18:04:43,195  INFO [TestNG-test=Test-1] TestBase:256 - List of Expected Error Messages = [Please enter email as kiran@gmail.com, Please enter password 123456]
+2021-06-04 18:04:43,264  INFO [TestNG-test=Test-1] TestBase:259 - List of Actual Error Messages = [Please enter email as kiran@gmail.com, Please enter password 123456]
+2021-06-04 18:04:43,264  INFO [TestNG-test=Test-1] TestBase:263 - List of Expected and Actual Error Messages matched 
+2021-06-04 18:04:43,367  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:43,384  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:44,875  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:45,764  INFO [TestNG-test=Test-1] TestBase:104 - verifying the Useful Links Menu
+2021-06-04 18:04:45,990  INFO [TestNG-test=Test-1] TestBase:239 - actual useful Links Menu Title JavaByKiran | Useful Links
+2021-06-04 18:04:45,990  INFO [TestNG-test=Test-1] TestBase:242 - expected useful Links Menu Title JavaByKiran | Useful Links
+2021-06-04 18:04:45,990  INFO [TestNG-test=Test-1] TestBase:246 - Actual and Expected useful Links Menu Title matched
+2021-06-04 18:04:46,111  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:46,111  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:47,527  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:47,786  INFO [TestNG-test=Test-1] TestBase:116 - ***************************
+2021-06-04 18:04:47,786  INFO [TestNG-test=Test-1] TestBase:117 - verifying the blank Log In Error Message
+2021-06-04 18:04:48,070  INFO [TestNG-test=Test-1] TestBase:283 - List of Expected Error Messages = [Please enter email., Please enter password.]
+2021-06-04 18:04:48,140  INFO [TestNG-test=Test-1] TestBase:286 - List of Actual Error Messages = [Please enter email., Please enter password.]
+2021-06-04 18:04:48,140  INFO [TestNG-test=Test-1] TestBase:290 - List of Expected and Actual Error Messages matched 
+2021-06-04 18:04:48,259  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:48,259  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:49,729  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:50,552  INFO [TestNG-test=Test-1] TestBase:111 - verifying the Downloads Menu
+2021-06-04 18:04:50,837  INFO [TestNG-test=Test-1] TestBase:263 - actual downloads Menu Title = JavaByKiran | Downloads
+2021-06-04 18:04:50,837  INFO [TestNG-test=Test-1] TestBase:266 - expected downloads Menu Title = JavaByKiran | Downloads
+2021-06-04 18:04:50,837  INFO [TestNG-test=Test-1] TestBase:270 - Actual and Expected downloads Menu Title matched
+2021-06-04 18:04:50,978  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:50,979  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:52,358  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:52,727  INFO [TestNG-test=Test-1] TestBase:124 - ***************************
+2021-06-04 18:04:52,727  INFO [TestNG-test=Test-1] TestBase:125 - verifying the register Link Text
+2021-06-04 18:04:52,800  INFO [TestNG-test=Test-1] TestBase:304 - Actual Register LinkText = Register a new membership
+2021-06-04 18:04:52,800  INFO [TestNG-test=Test-1] TestBase:307 - expected Register LinkText = Register a new membership
+2021-06-04 18:04:52,800  INFO [TestNG-test=Test-1] TestBase:311 - Actual and Expected Register LinkText matched
+2021-06-04 18:04:52,940  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:52,940  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:54,370  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:55,158  INFO [TestNG-test=Test-1] TestBase:118 - verifying the Left Corner Log Out Menu
+2021-06-04 18:04:55,382  INFO [TestNG-test=Test-1] TestBase:286 - actual left Corner LogOut Menu Title = JavaByKiran | Log in
+2021-06-04 18:04:55,382  INFO [TestNG-test=Test-1] TestBase:289 - actual left Corner LogOut Menu Title = JavaByKiran | Log in
+2021-06-04 18:04:55,382  INFO [TestNG-test=Test-1] TestBase:293 - Actual and Expected left Corner LogOut Menu Title matched
+2021-06-04 18:04:55,502  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:55,503  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:56,927  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:57,260  INFO [TestNG-test=Test-1] TestBase:132 - ***************************
+2021-06-04 18:04:57,260  INFO [TestNG-test=Test-1] TestBase:133 - verifying the register Link
+2021-06-04 18:04:57,455  INFO [TestNG-test=Test-1] TestBase:325 - Clicked the Register Link
+2021-06-04 18:04:57,455  INFO [TestNG-test=Test-1] TestBase:328 - Expected Title = JavaByKiran | Registration Page
+2021-06-04 18:04:57,461  INFO [TestNG-test=Test-1] TestBase:331 - Actual Title = JavaByKiran | Registration Page
+2021-06-04 18:04:57,462  INFO [TestNG-test=Test-1] TestBase:335 - Actual and Expected titles are matched
+2021-06-04 18:04:57,615  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:04:57,617  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:04:59,072  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:04:59,910  INFO [TestNG-test=Test-1] TestBase:125 - verifying the Left Corner Log Out Link
+2021-06-04 18:05:00,149  INFO [TestNG-test=Test-1] TestBase:309 - actual Right Corner LogOut Link Title = JavaByKiran | Log in
+2021-06-04 18:05:00,149  INFO [TestNG-test=Test-1] TestBase:312 - expected Right Corner LogOut Link Title = JavaByKiran | Log in
+2021-06-04 18:05:00,149  INFO [TestNG-test=Test-1] TestBase:316 - Actual and Expected Right Corner LogOut Link Title matched
+2021-06-04 18:05:00,278  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:00,279  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:01,686  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:02,002  INFO [TestNG-test=Test-1] TestBase:140 - ***************************
+2021-06-04 18:05:02,002  INFO [TestNG-test=Test-1] TestBase:141 - verifying the Login Without Heading Excel Data
+2021-06-04 18:05:02,396  INFO [TestNG-test=Test-1] TestBase:364 - invalid Data = Username : neelam@gmail.com    Password :!@#$%
+2021-06-04 18:05:02,848  INFO [TestNG-test=Test-1] TestBase:357 - Valid Data = Username : kiran@gmail.com    Password :123456
+2021-06-04 18:05:03,361  INFO [TestNG-test=Test-1] TestBase:364 - invalid Data = Username : mangesh@gmail.com    Password :123456
+2021-06-04 18:05:03,772  INFO [TestNG-test=Test-1] TestBase:364 - invalid Data = Username : jbk@gmail.com    Password :ASDFG
+2021-06-04 18:05:04,125  INFO [TestNG-test=Test-1] TestBase:364 - invalid Data = Username : !@#$%    Password :
+2021-06-04 18:05:04,398  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:04,398  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:05,959  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:06,834  INFO [TestNG-test=Test-1] TestBase:132 - verifying the Courses Headings
+2021-06-04 18:05:06,928  INFO [TestNG-test=Test-1] TestBase:330 - actual Courses Headings = [Selenium, Java / J2EE, Python, Php]
+2021-06-04 18:05:06,928  INFO [TestNG-test=Test-1] TestBase:337 - actual Courses Headings = [Selenium, Java / J2EE, Python, Php]
+2021-06-04 18:05:06,928  INFO [TestNG-test=Test-1] TestBase:341 - Actual and Expected Courses Headings matched
+2021-06-04 18:05:07,070  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:07,070  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:08,478  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:09,265  INFO [TestNG-test=Test-1] TestBase:139 - verifying the Courses Sub Headings
+2021-06-04 18:05:09,380  INFO [TestNG-test=Test-1] TestBase:355 - actual Courses Sub Headings = [Automation Testing, Software Development, Data Science, Web Development]
+2021-06-04 18:05:09,380  INFO [TestNG-test=Test-1] TestBase:362 - expected Courses Sub Headings = [Automation Testing, Software Development, Data Science, Web Development]
+2021-06-04 18:05:09,380  INFO [TestNG-test=Test-1] TestBase:366 - Actual and Expected Courses Sub Headings matched
+2021-06-04 18:05:09,520  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:09,520  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:10,948  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:11,767  INFO [TestNG-test=Test-1] TestBase:146 - verifying the Courses More Info Text
+2021-06-04 18:05:11,870  INFO [TestNG-test=Test-1] TestBase:380 - actual MoreInfo Tags = [More info, More info, More info, More info]
+2021-06-04 18:05:11,870  INFO [TestNG-test=Test-1] TestBase:387 - actual MoreInfo Tags = [More info, More info, More info, More info]
+2021-06-04 18:05:11,870  INFO [TestNG-test=Test-1] TestBase:391 - Actual and Expected MoreInfo Tags matched
+2021-06-04 18:05:11,998  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:11,998  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:13,399  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:14,250  INFO [TestNG-test=Test-1] TestBase:153 - verifying the Courses More Info Links
+2021-06-04 18:05:14,251  INFO [TestNG-test=Test-1] TestBase:409 - expected New Window Urls = [file:///C:/Offline%20Website/pages/examples/dashboard.html#, file:///C:/Offline%20Website/pages/pdf/python-syllabus.pdf, file:///C:/Offline%20Website/pages/pdf/java-j2ee-syllabus-jbk.pdf, file:///C:/Offline%20Website/pages/pdf/selenium-testing-syllabus-jbk.pdf]
+2021-06-04 18:05:18,984  INFO [TestNG-test=Test-1] TestBase:412 - actual New Window Urls = [file:///C:/Offline%20Website/pages/examples/dashboard.html#, file:///C:/Offline%20Website/pages/pdf/python-syllabus.pdf, file:///C:/Offline%20Website/pages/pdf/java-j2ee-syllabus-jbk.pdf, file:///C:/Offline%20Website/pages/pdf/selenium-testing-syllabus-jbk.pdf]
+2021-06-04 18:05:18,992  INFO [TestNG-test=Test-1] TestBase:416 - Actual and Expected New Window Urls matched
+2021-06-04 18:05:19,151  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:19,151  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:20,573  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:21,395  INFO [TestNG-test=Test-1] TestBase:160 - verifying the Footer Statement
+2021-06-04 18:05:21,428  INFO [TestNG-test=Test-1] TestBase:430 - Actual footer Statement = Design for Selenium Automation Test V 2.3.0
+Copyright © 2005-2019 JavaByKiran. All rights reserved.
+2021-06-04 18:05:21,428  INFO [TestNG-test=Test-1] TestBase:433 - expected footer Statement = Design for Selenium Automation Test V 2.3.0
+Copyright © 2005-2019 JavaByKiran. All rights reserved.
+2021-06-04 18:05:21,428  INFO [TestNG-test=Test-1] TestBase:437 - Actual and Expected footer Statement matched
+2021-06-04 18:05:21,579  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:21,579  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:22,938  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:23,751  INFO [TestNG-test=Test-1] TestBase:167 - verifying the JBK_Link present at footer
+2021-06-04 18:05:25,958  INFO [TestNG-test=Test-1] TestBase:451 - actual Window Title = www.javabykiran.com
+2021-06-04 18:05:25,958  INFO [TestNG-test=Test-1] TestBase:454 - expected Window Title = Java Classes in Pune | Selenium Training | Python Courses in pune
+2021-06-04 18:05:25,958  INFO [TestNG-test=Test-1] TestBase:463 - Actual and Expected Window Title not matched
+2021-06-04 18:05:26,094  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:26,094  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:27,605  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:28,397  INFO [TestNG-test=Test-1] TestBase:174 - verifying Sequence of Windows Text
+2021-06-04 18:05:28,462  INFO [TestNG-test=Test-1] TestBase:472 - actual Sequence = Home Dashboard
+2021-06-04 18:05:28,462  INFO [TestNG-test=Test-1] TestBase:475 - expected Sequence = Home Dashboard
+2021-06-04 18:05:28,462  INFO [TestNG-test=Test-1] TestBase:479 - Actual and Expected Sequence matched
+2021-06-04 18:05:28,601  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:28,603  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:30,062  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:30,904  INFO [TestNG-test=Test-1] TestBase:181 - verifying the Course Heading using Excel
+2021-06-04 18:05:31,023  INFO [TestNG-test=Test-1] TestBase:493 - Actual course Heading = [Selenium, Java / J2EE, Python, Php]
+2021-06-04 18:05:31,070  INFO [TestNG-test=Test-1] TestBase:496 - Expected course Heading = [Selenium, Java / J2EE, Python, Php]
+2021-06-04 18:05:31,070  INFO [TestNG-test=Test-1] TestBase:500 - Actual and Expected course Headings matched
+2021-06-04 18:05:31,289  INFO [TestNG-test=Test-1] TestBase:33 - *************************************************************
+2021-06-04 18:05:31,289  INFO [TestNG-test=Test-1] TestBase:34 - Opening the browser
+2021-06-04 18:05:32,733  INFO [TestNG-test=Test-1] TestBase:39 - Inserting the Url
+2021-06-04 18:05:33,562  INFO [TestNG-test=Test-1] TestBase:188 - verifying the Course Sub Heading using Excel
+2021-06-04 18:05:33,668  INFO [TestNG-test=Test-1] TestBase:514 - Actual course Sub Headings = [Automation Testing, Software Development, Data Science, Web Development]
+2021-06-04 18:05:33,723  INFO [TestNG-test=Test-1] TestBase:517 - Expected course Sub Headings = [Automation Testing, Software Development, Data Science, Web Development]
+2021-06-04 18:05:33,727  INFO [TestNG-test=Test-1] TestBase:521 - Actual and Expected course Sub Headings matched

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="14" total="15" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3423" started-at="2021-06-04T12:30:34Z" finished-at="2021-06-04T12:30:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3423" started-at="2021-06-04T12:30:34Z" finished-at="2021-06-04T12:30:37Z">
+      <class name="com.jbk.tests.LoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.jbk.tests.LoginTest@3a5ed7a6]" name="openBrowser" is-config="true" duration-ms="2850" started-at="2021-06-04T18:00:34Z" finished-at="2021-06-04T18:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyInvalidLogInErrorMessage()[pri:11, instance:com.jbk.tests.LoginTest@3a5ed7a6]" name="verifyInvalidLogInErrorMessage" duration-ms="434" started-at="2021-06-04T18:00:37Z" finished-at="2021-06-04T18:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogInErrorMessage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.jbk.tests.LoginTest@3a5ed7a6]" name="closeBrowser" is-config="true" duration-ms="123" started-at="2021-06-04T18:00:37Z" finished-at="2021-06-04T18:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.jbk.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
